@@ -1,0 +1,148 @@
+footer {
+    background-color:grey;
+    padding: 2%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(10%);
+} 
+
+header {
+    background-color: black;
+    text-align:right;
+    padding:2px;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: red;
+}
+
+img {
+    transform: translateX(75%);
+}
+
+.container {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.autos {
+    width: 250px;
+
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.datos {
+    width: 250px;
+ 
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.fabricantes {
+    width: 250px;
+    
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.repuestos {
+    width: 250px;
+    
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.servicios {
+    width: 250px;
+    
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.asistencia {
+    width: 250px;
+   
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+div {
+
+    height: 50px;
+    padding: 0px;
+    background-color: azure;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateX(0%);
+}
+
+
+.a {
+   
+
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.b {
+    
+ 
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.c {
+    
+    
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.d {
+    
+    
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.e {
+  
+    
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.f {
+    
+   
+    padding: 0px;
+    box-sizing: border-box;
+    transform: translateX(0%);
+}
+
+.carritos{
+
+    height: 50px;
+    padding: 0px;
+    background-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateX(0%);
+}
